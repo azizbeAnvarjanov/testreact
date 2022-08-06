@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6983c5e9.css",
+    "main.js": "/static/js/main.21bdde16.js",
+    "static/media/main.jpg": "/static/media/main.bb89fc2100da55069438.jpg",
+    "static/media/map.jpg": "/static/media/map.c74ca99b85b37ae8ec1a.jpg",
+    "static/media/book-table-img.jpg": "/static/media/book-table-img.6a5e5e8fc15e173275fa.jpg",
+    "static/media/about-section.jpg": "/static/media/about-section.2ec5c95655a90eaeb203.jpg",
+    "static/media/gallary-12.jpg": "/static/media/gallary-12.b72d64fed0a8b9e44ed8.jpg",
+    "static/media/gallary-8.jpg": "/static/media/gallary-8.b47e0974e43002f99e0f.jpg",
+    "static/media/gallary-3.jpg": "/static/media/gallary-3.db4be1be0e1f6b970579.jpg",
+    "static/media/gallary-4.jpg": "/static/media/gallary-4.5b35c1eee110d56e2568.jpg",
+    "static/media/gallary-6.jpg": "/static/media/gallary-6.652fbf09f0ae47dfadc6.jpg",
+    "static/media/gallary-11.jpg": "/static/media/gallary-11.d6c83c0e8d03c3797b9d.jpg",
+    "static/media/blog-4.jpg": "/static/media/blog-4.fe2eaaeab0e7f3fc28d0.jpg",
+    "static/media/gallary-10.jpg": "/static/media/gallary-10.74907379166c2c90767e.jpg",
+    "static/media/gallary-5.jpg": "/static/media/gallary-5.61ff7f768933a3e18b3d.jpg",
+    "static/media/gallary-9.jpg": "/static/media/gallary-9.ae54e5bd8cdebc041353.jpg",
+    "static/media/blog-2.jpg": "/static/media/blog-2.06dbd1541f3d71495501.jpg",
+    "static/media/blog-5.jpg": "/static/media/blog-5.7be57ba8105db8425d02.jpg",
+    "static/media/gallary-7.jpg": "/static/media/gallary-7.a4e9673e9cc5106b73b6.jpg",
+    "static/media/blog-6.jpg": "/static/media/blog-6.c91053633ea2737924a1.jpg",
+    "static/media/gallary-1.jpg": "/static/media/gallary-1.07355ed0c1c7dc413ff1.jpg",
+    "static/media/blog-1.jpg": "/static/media/blog-1.958c255552e842ec87ec.jpg",
+    "static/media/gallary-2.jpg": "/static/media/gallary-2.78928b519fc03ff835b6.jpg",
+    "static/media/blog-3.jpg": "/static/media/blog-3.5853cdc5a3d08c2ddea6.jpg",
+    "index.html": "/index.html",
+    "main.6983c5e9.css.map": "/static/css/main.6983c5e9.css.map",
+    "main.21bdde16.js.map": "/static/js/main.21bdde16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6983c5e9.css",
+    "static/js/main.21bdde16.js"
+  ]
+}
